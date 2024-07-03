@@ -6,8 +6,8 @@ Welcome to my GitHub repository for the Linde Summer Internship 2024! This proje
 **DATA PRE-PROCESSING**</br>
   **Day 1:** Introduction to Linde Engineering India. Meeting with HoD of the department and Project Guide.</br>
   **Day 2:** Defining the project.</br>
-  **Day 3:** *Data extraction from the server and storage in the computer.</br>
-             *Company Data understanding.</br>
+  **Day 3:** - Data extraction from the server and storage in the computer.
+             - Company Data understanding.</br>
   **Day 4:** Data Cleaning and Merging.</br>
   **Day 5:** Learning Basic PowerBI.</br>
   
