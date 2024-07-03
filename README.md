@@ -11,3 +11,4 @@ Welcome to my GitHub repository for the Linde Summer Internship 2024! This proje
   **Day 4:** Data Cleaning and Merging.</br>
   **Day 5:** Learning Basic PowerBI.</br>
   
+* week 2
